@@ -22,7 +22,7 @@ int main(){
             }
         } 
         printf("%d\n",c);  
-
+printf("GIT ");
     }
     return 0;
 }
